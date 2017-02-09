@@ -1,0 +1,6 @@
+{
+    "appSecret": "56d7b6cb5d1434c1967986f27c3b51ce",
+    "pageAccessToken": "EAAHZCFXQalMcBAKxLGoqZAAwMzFOOOG31Duoo5ZBWILInxbKjWUyylq0JBpiaKB9aAWrCz8fCdDPh9d0OOPvEiDvVBvU2m1U50L0IGOdUc261dZBmCZCdQEO2l4Gj6mZAhnHY3eM5xKLSGwY69X04Oc46DrdMIfQjn6HahVf1jcQZDZD",
+    "validationToken": "FlightAssistValidationToken",
+    "serverURL": "https://flightassistbot.mybluemix.net"
+}
